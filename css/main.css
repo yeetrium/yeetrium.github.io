@@ -1,0 +1,22 @@
+body, html {
+    height: 100%;
+  }
+  
+  .parallax {
+    background-image: url('https://yeetrium.tk/projects/art80f/nightowl.jpg');
+
+    height: 100%; 
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .panel {
+    text-align: center;
+    height:1000px;
+    background-color:#30ad68;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size:36px;
+  }
